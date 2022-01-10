@@ -1,0 +1,18 @@
+Functionalities in a blogging website
+
+==> Signup and login page
+==> Showing the popular or most liked or interested content or following blogs in the landing page
+==> creating,Deleting, Editing a blog
+==> Adding different content types in creating a blog
+==> Adding comments section for a blog to comment on the blog, adding like and share sections to like and share the blog
+==> Search bar to search any specific blogger or any specific content and follow them
+
+
+Functionalities in a Messaging application
+
+==> landing page contains login using a phone number using otp
+==> giving access to the contacts and other required content in the mobile
+==> Sending the message with any type of content like(audio, pdf, video e.t.c)
+==> Receiving the message with any type of content like(audio, pdf, video e.t.c)
+==> can able to see the user availability status(like online or offlie)
+==> able to send the message to multiple contacts at a time in single send
